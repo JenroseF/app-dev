@@ -10,7 +10,7 @@ My first repository.
 - Runtime: Mon & Tue 22:00
 - Language: Korean
 - Country: South Korea
-| Roles       | Name          |
+- | Roles       | Name          |
 | ----------- | -----------   |
 | Director    | Kim Yoon Jin  |
 | Screenwriter| Lee Na Eun    |
